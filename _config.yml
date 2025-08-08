@@ -13,7 +13,7 @@ title                    : "Minghan Wang / Personal Site"
 title_separator          : "-"
 name                     : &name "Minghan Wang"
 description              : &description "A rising junior studying Computer Engineering at Purdue University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://minghan-wang.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://minghan-wang.github.io # the base hostname & protocol for your site e.g. "https://minghan-wang.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "minghan-wang.github.io"
 
