@@ -29,6 +29,7 @@ collection: portfolio
 - Generated area/power estimates using Cadence Genus  
 - Identified optimal configurations reducing tapeout risk by 40%  
 [View Presentation](files/Tapeout Configuration and Testing Presentation - VIP 37920.pdf){: .btn .btn--primary}  
+[View Poster](files/socet_tapeout_poster_spring25.pdf){: .btn .btn--primary}  
 
 
 ### AFTx08 Physical Design Flow
