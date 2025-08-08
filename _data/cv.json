@@ -1,14 +1,13 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
+    "name": "Minghan Wang",
+    "email": "wminghan@purdue.edu",
+    "website": "https://minghan-wang.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
+      "postalCode": "47906",
+      "city": "West Lafayette",
       "countryCode": "US",
       "region": ""
     },
@@ -25,75 +24,27 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "minghan-wang",
+        "url": "https://github.com/minghan-wang"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Purdue University",
+      "area": "B.S in Computer Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "endDate": "2026",
+      "gpa": 3.98,
+      "courses": [ASIC Design Laboratory, Microprocessor Systems and Interfacing, Digital System Design, Advanced C Programming, Data Structures & Algorithms, Electrical Engineering Fundamentals II]
     }
   ],
   "skills": [],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
   "presentations": [
     {
       "name": "Talk 1 on Relevant Topic in Your Field",
@@ -142,11 +93,25 @@
   ],
   "portfolio": [
     {
+      "name": "Google Dino Game on FPGA",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "SystemVerilog implementation with collision detection and display drivers<br/><img src='/files/Dino Game_ Final Presentation.pdf'>"
+    },
+    {
       "name": "Portfolio item number 1",
       "category": "portfolio",
       "date": "",
       "url": "",
       "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
+    },
+    {
+      "name": "Portfolio item number 1",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    },
   ]
 }
