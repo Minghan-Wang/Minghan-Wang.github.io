@@ -23,7 +23,7 @@ Work Experience
   * STARS Program, Purdue University
   * Duties included:
     - Led team developing FPGA-based Google Dino game using SystemVerilog
-    - Designed key modules (RNG, Score Counter, Collision Detector)
+    - Designed key modules (RNG, Score Counter, Collision Detector, Display Interface(Parallel and Serial))
     - Integrated display drivers for ili9341 LCD and Seven-Segment outputs
     - Presented project milestones to faculty reviewers
   
