@@ -11,35 +11,63 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* B.S. in West Lafayette, Purdue University, 2026 (Expected)
+  GPA: 3.98/4.00  
+  *Certifications:* Semiconductor Fabrication 101, STARS Certificate  
+  *Relevant Coursework:* Digital System Design, Advanced C Programming, Data Structures & Algorithms, Electrical Engineering Fundamentals II
+  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - Present: Digital Design Team Member
+  * System on Chip Extension Technologies (SoCET), Purdue University
+  * Duties included: 
+    - Validating tapeout flow for AFTx08 RISC-V processor using AFTx07 test platform
+    - Benchmarking cache configurations (1-8KB d/i-cache) and RISC-V ISA extensions (RV32I/E, zba/zbb/zbs)
+    - Optimizing memory latency models (4-132 cycles) through Embench-IoT benchmarking
+    - Conducting synthesis with Cadence Genus for area/power estimation
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2025 - Present: Design Flow Team Member
+  * System on Chip Extension Technologies (SoCET), Purdue University
+  * Duties included:
+    - Performing pre-layout DRC verification using MITLL PDK and Cadence tools
+    - Preparing GDSII layout for Skywater 130nm tapeout
+    - Developing scalable design flow documentation for future projects
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2024 - Dec 2024: Test Engineer Team Member
+  * System on Chip Extension Technologies (SoCET), Purdue University
+  * Duties included:
+    - Implementing scan chain insertion and ATPG for PCI core
+    - Researching DFT methodologies for RISC-V SoC testability
+    - Performing pre/post-DFT DRC checks and violation resolution
+
+* May 2024 - July 2024: Hardware Engineer Intern
+  * STARS Program, Purdue University
+  * Duties included:
+    - Led team developing FPGA-based Google Dino game using SystemVerilog
+    - Designed key modules (RNG, Score Counter, Collision Detector)
+    - Integrated display drivers for ili9341 LCD and Seven-Segment outputs
+    - Presented project milestones to faculty reviewers
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Hardware Design:
+  - RTL Design (SystemVerilog)
+  - FPGA Prototyping
+  - ASIC Tapeout Flows
+  - Power Analysis
+  - DFT/ATPG Implementation
+* EDA Tools:
+  - Cadence Genus/Innovus/Virtuoso
+  - Siemens Calibre
+  - Synopsys Fusion Compiler
+  - OpenLane
+* Programming:
+  - C (Advanced)
+  - Python
+  - Git Version Control
+* Standards:
+  - RISC-V ISA (RV32I/E, Zba/Zbb/Zbs)
+  - Memory Subsystem Optimization
 
 Publications
 ======
