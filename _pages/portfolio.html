@@ -1,14 +1,37 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Technical Portfolio"
 permalink: /portfolio/
 author_profile: true
+header:
+  overlay_image: circuit-board.jpg  # Add relevant header image
+  overlay_filter: 0.5
+  caption: "Hardware Design Projects"
 ---
 
 {% include base_path %}
 
+<div class="portfolio-grid">
+  {% for post in site.portfolio %}
+    <div class="portfolio-item">
+      {% include archive-single-portfolio.html %}
+    </div>
+  {% endfor %}
+</div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<section class="portfolio-highlights">
+  <h2>Featured Projects</h2>
+  <div class="featured-project">
+    <h3>RISC-V Configuration Benchmarking</h3>
+    <p>Embench-IoT analysis of cache/ISA configurations for AFTx08 tapeout</p>
+    <a href="/files/socet_benchmarking.pdf" class="btn btn--inverse">View Slides</a>
+    <a href="https://github.com/your-repo" class="btn btn--github">GitHub</a>
+  </div>
+  
+  <div class="featured-project">
+    <h3>Google Dino Game on FPGA</h3>
+    <p>SystemVerilog implementation with collision detection and display drivers</p>
+    <a href="https://minghan-wang.github.io/Google-Dino-Game-Team-8-in-STARS/" class="btn btn--primary">Live Demo</a>
+    <a href="/files/stars_poster.pdf" class="btn btn--info">View Poster</a>
+  </div>
+</section>
