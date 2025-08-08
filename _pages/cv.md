@@ -36,9 +36,9 @@ Work experience
 * Aug 2024 - Dec 2024: Test Engineer Team Member
   * System on Chip Extension Technologies (SoCET), Purdue University
   * Duties included:
-    - Implementing scan chain insertion and ATPG for PCI core
-    - Researching DFT methodologies for RISC-V SoC testability
-    - Performing pre/post-DFT DRC checks and violation resolution
+    - Implemented scan chain insertion and ATPG for PCI core
+    - Researched DFT methodologies for RISC-V SoC testability
+    - Performed pre/post-DFT DRC checks and violation resolution
 
 * May 2024 - July 2024: Hardware Engineer Intern
   * STARS Program, Purdue University
@@ -83,9 +83,21 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Summer 2025**: Teaching Assistant - ECE 20002 & ECE 36800
+  * Purdue University, West Lafayette
+  * Duties included:
+    - Conducted weekly office hours (in-person/online) for 200+ students across two courses
+    - Provided individualized guidance on circuit analysis (Laplace transforms, frequency response) and data structures (trees, graphs, hashing)
+    - Proctored examinations and ensured academic integrity compliance
+    - Proofread course materials and exams for technical accuracy
+
+* **Spring 2025**: Teaching Assistant - ECE 26400 (Advanced C Programming)
+  * Purdue University, West Lafayette
+  * Duties included:
+    - Mentored students on advanced C concepts (pointers, memory management, data structures)
+    - Debugged complex programming assignments and provided optimization feedback
+    - Developed supplementary materials for core topics (file I/O, multi-threading, system calls)
+    - Assisted in grading programming assignments and preparing autograders with focus on efficiency and best practices
   
 Service and leadership
 ======
