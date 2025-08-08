@@ -19,6 +19,7 @@ header:
 - Prototyped the game on 7-segment displays  
 - Developed SystemVerilog modules: Parallel and Serial Interface, RNG, Score Counter, Collision Detector  
 - Achieved 30 FPS with optimized rendering pipeline
+
 [View Presentation](/files/DinoGame_FinalPresentation.pdf){: .btn .btn--primary}  
 [Video Demo](/files/e728d5df4d0d5307e090db356af27379.mp4){: .btn}  
 [Source Code](https://github.com/Minghan-Wang/Google-Dino-Game-Team-8-in-STARS/){: .btn}
@@ -39,7 +40,7 @@ header:
 - Executed physical design with Cadence Innovus
 - Achieved DRC-clean layout using MITLL PDK and Simens Calibre  
 - Developed reusable design flow infrastructure  
-[View Documentation](/files/DesignFlow_Tapeout_Verification_Presentation_spring25.pdf){: .btn .btn--primary}  
+[View Presentation](/files/DesignFlow_Tapeout_Verification_Presentation_spring25.pdf){: .btn .btn--primary}  
 [View Poster](/files/socet_tapeout_poster_spring25.pdf){: .btn .btn--primary}  
 
 
@@ -49,7 +50,7 @@ header:
 - Inserted 8,000+ flip-flops into scan chains  
 - Achieved 98.5% fault coverage with Synopsys TetraMAX  
 - Developed clock domain crossing test strategies  
-[View Methodology](/files/Test_Engineering_PPT.pdf){: .btn .btn--primary}
+[View Presentation](/files/Test_Engineering_PPT.pdf){: .btn .btn--primary}
 
 ## Technical Showcase
 <div class="grid__wrapper">
