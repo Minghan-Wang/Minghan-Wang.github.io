@@ -1,7 +1,12 @@
 ---
+layout: archive
 title: "Technical Portfolio"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+permalink: /portfolio/
+author_profile: true
+header:
+  overlay_image: circuit-board.jpg
+  overlay_filter: 0.5
+  caption: "Hardware Design Projects"
 ---
 
 {% include base_path %}
