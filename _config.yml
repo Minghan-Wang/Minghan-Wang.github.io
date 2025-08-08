@@ -23,13 +23,13 @@ repository               : "minghan-wang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Minghan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Computer Engineering student at Purdue University specializing in semiconductor design and optimization"
+  location         : "Indiana"
+  university       : "Purdue University"
+  uri              : " http://www.linkedin.com/in/minghan-wang-07230a299"# URL
+  email            : "wminghan@purdue.edu" 
 
   # Academic websites
   academia         : # URL
