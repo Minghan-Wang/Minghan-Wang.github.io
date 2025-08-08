@@ -38,7 +38,7 @@
       "startDate": "",
       "endDate": "2026",
       "gpa": 3.98,
-      "courses": [ASIC Design Laboratory, Microprocessor Systems and Interfacing, Digital System Design, Advanced C Programming, Data Structures & Algorithms, Electrical Engineering Fundamentals II]
+      "courses": ["ASIC Design Laboratory, Microprocessor Systems and Interfacing, Digital System Design, Advanced C Programming, Data Structures & Algorithms, Electrical Engineering Fundamentals II"]
     }
   ],
   "skills": [],
@@ -100,11 +100,11 @@
       "description": "SystemVerilog implementation with collision detection and display drivers<br/><img src='/files/Dino Game_ Final Presentation.pdf'>"
     },
     {
-      "name": "Portfolio item number 1",
+      "name": "RISC-V Configuration Benchmarking",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Embench-IoT analysis of cache/ISA configurations for AFTx08 tapeout<br/><img src='/files/Tapeout Configuration and Testing Presentation - VIP 37920.pdf'>"
     },
     {
       "name": "Portfolio item number 1",
