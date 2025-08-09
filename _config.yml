@@ -22,7 +22,7 @@ repository               : "minghan-wang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "file/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Minghan Wang"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering student at Purdue University specializing in semiconductor design and optimization"
