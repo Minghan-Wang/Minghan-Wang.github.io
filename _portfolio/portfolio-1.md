@@ -51,10 +51,3 @@ header:
 - Achieved 98.5% fault coverage with Synopsys TetraMAX  
 - Developed clock domain crossing test strategies  
 [View Presentation](/files/Test_Engineering_PPT.pdf){: .btn .btn--primary}
-
-## Technical Showcase
-<div class="grid__wrapper">
-  {% for post in site.portfolio %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
