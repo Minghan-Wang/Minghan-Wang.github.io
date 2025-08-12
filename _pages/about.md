@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Hardware Engineer Specializing in RISC-V Processors and Tapeout Validation
 
-I'm a Computer Engineering student at Purdue University (GPA: 3.98/4.00) with hands-on experience in semiconductor design, FPGA prototyping, and ASIC tapeout processes. My work focuses on optimizing RISC-V processor configurations and developing robust physical design flows for next-generation chips.
+I'm a Computer Engineering student at Purdue University with hands-on experience in semiconductor design, FPGA prototyping, and ASIC tapeout processes. My work focuses on optimizing RISC-V processor configurations and developing robust physical design flows for next-generation chips.
 
 ### Technical Expertise
 
@@ -38,7 +38,7 @@ At **System on Chip Extension Technologies (SoCET)**, I've contributed to three 
    - Resolved 150+ DRC violations using MITLL PDK rules  
 
 2. **RISC-V Configuration Benchmarking**  
-   - Identified optimal cache size (4KB) through Embench-IoT analysis  
+   - Identified optimal cache size through Embench-IoT analysis  
    - Validated Zbb extension providing 12% IPC gain  
    - Reduced tapeout risk through pre-fabrication simulation  
 
@@ -50,7 +50,7 @@ At **System on Chip Extension Technologies (SoCET)**, I've contributed to three 
 ### Academic Foundation
 
 **Purdue University** | B.S. Computer Engineering (Expected Dec 2026)  
-*Relevant Coursework*: Advanced Digital Design, VLSI Concepts, Computer Architecture, Semiconductor Fabrication  
+*Relevant Coursework*: Data Structures and Algorithms, Introduction to Digital System Design, Advanced C Programming, Discrete Mathematics, Electrical Engineering Fundamentals II
 *Certifications*: STARS Program, Semiconductor Fabrication 101  
 
 **Teaching Experience**:  
@@ -61,10 +61,10 @@ At **System on Chip Extension Technologies (SoCET)**, I've contributed to three 
 ### Career Goals
 
 I'm seeking opportunities to:  
-- Contribute to cutting-edge processor development (RISC-V/ARM/x86)  
-- Optimize memory subsystems for AI/edge computing applications  
-- Develop automated flows for complex SoC implementations  
-- Advance power-efficient computing through novel architectures  
+- Leverage a multidisciplinary engineering background spanning semiconductor design, software development, and system optimization.
+- Apply experience in RISC-V processor customization, RTL-to-GDSII implementation, and FPGA-based prototyping to deliver innovative solutions.
+- Streamline workflows and improve efficiency through design flow automation and data-driven process improvements.
+- Collaborate across hardware, software, and operations teams to solve complex, large-scale engineering challenges.
 
 [View my portfolio](/portfolio) | [Download resume](/files/resume.pdf)  
 [GitHub](https://github.com/Minghan-Wang) | [LinkedIn](http://linkedin.com/in/minghan-wang-07230a299)  
